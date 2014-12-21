@@ -1,5 +1,4 @@
 Title: Curriculum Vitae
-status: hidden
 date: 2014-12-21 21:00
 comments: true
 slug: cv
