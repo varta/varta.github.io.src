@@ -59,6 +59,7 @@ PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.literal', 'render_math']
 
 DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_MENU = False
 
 
 # The theme file should be updated so that the base header contains the line:
